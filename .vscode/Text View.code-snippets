@@ -1,0 +1,8 @@
+{
+  "Text View": {
+    "scope": "javascript",
+    "prefix": "text",
+    "body": ["<Text></Text>"],
+    "description": "Log output to console"
+  }
+}

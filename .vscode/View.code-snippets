@@ -1,0 +1,8 @@
+{
+  "View": {
+    "scope": "javascript",
+    "prefix": "view",
+    "body": ["<View>", "", "</View>"],
+    "description": "Log output to console"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Fragment": {
+    "scope": "javascript,typescript",
+    "prefix": "frag",
+    "body": ["<Fragment>", "", "</Fragment>"],
+    "description": "Log output to console"
+  }
+}

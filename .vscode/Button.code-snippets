@@ -1,0 +1,8 @@
+{
+  "Button": {
+    "scope": "javascript",
+    "prefix": "button",
+    "body": ["<Button title='' onPress={}></Button>"],
+    "description": "Log output to console"
+  }
+}
